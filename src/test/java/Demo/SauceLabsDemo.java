@@ -22,7 +22,7 @@ public class SauceLabsDemo {
 		options.setAcceptInsecureCerts(true);
 		options.setUnhandledPromptBehaviour(UnexpectedAlertBehaviour.ACCEPT);
 		
-		
+//		this is not in github
 //		DesiredCapabilities caps = DesiredCapabilities.chrome();
 //		caps.setCapability("platform", "Windows 10");
 //		caps.setCapability("version", "latest");
