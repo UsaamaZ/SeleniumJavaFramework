@@ -16,6 +16,22 @@ public class SauceLabsDemo {
 
 	public static void main(String[] args) throws Exception {
 
+		
+//		git status
+//		git-gui
+//		
+//		git branch
+//		
+//		git add .
+//		git status
+//		
+//		git commit -m "message"
+//		
+//		git push origin main
+//		
+//		git checkout existing_other_branch
+//		
+//		git checkout -b "new_branch_name"
 
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("disable-infobars");
